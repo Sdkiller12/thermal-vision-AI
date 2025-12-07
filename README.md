@@ -56,4 +56,7 @@ python main.py --mode regression
 ## Training a Custom Model
 If you have a dataset of RGB images and corresponding temperature values, you can use `train_temperature_model.py` as a starting point to train a PyTorch regression model.
 
-link for download datafiles : https://adas-dataset-v2.flirconservator.com/#downloadguide
+##downloa link for data files
+link for download datafiles : https://adas-dataset-v2.flirconservator.com/#downloadguide  
+use 7zip to extract the datazip files 
+and copy in data folder in the project 
