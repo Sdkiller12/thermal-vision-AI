@@ -74,4 +74,9 @@ Cela va :
 - Entraîner un régresseur CNN pendant 5 époques.
 - Sauvegarder le modèle entraîné dans `models/thermal_regressor.pth`.
 
+##lien de telechargement des fichier data 
 lien pour telecharger les data : https://adas-dataset-v2.flirconservator.com/#downloadguide
+
+utiliser 7zip pour extraire les fichiers 
+copier les ensuites dans le fichier data du projet 
+
