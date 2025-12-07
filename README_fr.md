@@ -73,3 +73,5 @@ Cela va :
 - Normaliser les données thermiques 16-bit.
 - Entraîner un régresseur CNN pendant 5 époques.
 - Sauvegarder le modèle entraîné dans `models/thermal_regressor.pth`.
+
+lien pour telecharger les data : https://adas-dataset-v2.flirconservator.com/#downloadguide
